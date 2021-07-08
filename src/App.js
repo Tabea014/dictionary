@@ -8,7 +8,7 @@ function App() {
         <img src={PurpleRose} className="PurpleRose img-fluid" alt="PurpleRose" />
       </header>
 
-    </div>
+    </div >
   );
 }
 
